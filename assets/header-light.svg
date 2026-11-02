@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Samir Lorenzo, Junior Developer, Panama">
+<defs>
+<radialGradient id="a" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#FF6B5E"/><stop offset="1" stop-color="#D90429"/></radialGradient>
+<radialGradient id="b" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#4DA3FF"/><stop offset="1" stop-color="#2B3BFF"/></radialGradient>
+<clipPath id="t"><rect x="72" y="252" width="0" height="50"><animate attributeName="width" values="0;470;470;0" keyTimes="0;.3;.92;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1200" height="340" fill="#000000"/>
+<circle cx="980" cy="150" r="150" fill="url(#a)"><animateTransform attributeName="transform" type="translate" values="0 0;-30 24;0 0" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="280" r="84" fill="url(#b)"><animateTransform attributeName="transform" type="translate" values="0 0;36 -22;0 0" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="300" r="46" fill="url(#b)"><animateTransform attributeName="transform" type="translate" values="0 0;-22 -34;0 0" dur="6s" repeatCount="indefinite"/></circle>
+<text x="66" y="130" font-family="Impact,Haettenschweiler,Arial Black,sans-serif" font-size="112" fill="#FFFFFF">Samir</text>
+<text x="66" y="236" font-family="Impact,Haettenschweiler,Arial Black,sans-serif" font-size="112" fill="#FFFFFF">Lorenzo</text>
+<g font-family="Menlo,Consolas,monospace" font-size="30" fill="#FFD166" clip-path="url(#t)"><text x="72" y="288">&gt; junior developer, Panama</text></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-label="Panama Canal Tracker: a ship crossing an isthmus chart">
+<rect width="640" height="280" fill="#0A3D57"/>
+<path d="M0 0H640V96C560 76 520 120 450 112C380 104 350 150 280 146C200 140 150 196 90 190C50 186 20 200 0 196Z" fill="#0F5473"/>
+<path d="M0 214C70 196 130 230 210 200C290 170 330 200 400 170C480 136 560 164 640 130V280H0Z" fill="#E8D9A8"/>
+<path d="M0 96H640M0 186H640M160 0V280M320 0V280M480 0V280" stroke="#FFFFFF" stroke-opacity=".12"/>
+<path id="r" d="M30 120C150 100 230 182 330 150S500 90 610 70" fill="none" stroke="#FFD166" stroke-width="3" stroke-dasharray="3 9" stroke-linecap="round"/>
+<g fill="#FFD166"><rect x="236" y="146" width="6" height="26"/><rect x="396" y="108" width="6" height="26"/></g>
+<g><path d="M-22 -3H14L24 -3L14 8H-14Z" fill="#FFFFFF"/><rect x="-14" y="-12" width="20" height="9" fill="#FF6B4A"/>
+<animateMotion dur="14s" repeatCount="indefinite" rotate="auto"><mpath href="#r"/></animateMotion></g>
+<text x="28" y="248" font-family="Georgia,serif" font-size="33" font-style="italic" font-weight="700" fill="#0A3D57">Panama Canal Tracker</text>
+</svg>

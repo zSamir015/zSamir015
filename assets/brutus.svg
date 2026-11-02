@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-label="Brutus: a big neo-brutalist burger">
+<rect width="640" height="280" fill="#FFD400"/>
+<text x="24" y="130" font-family="Impact,Haettenschweiler,Arial Black,sans-serif" font-size="104" fill="#000">BRUTUS</text>
+<rect x="28" y="160" width="250" height="56" fill="#000" transform="translate(7 7)"/>
+<rect x="28" y="160" width="250" height="56" fill="#FF3B30" stroke="#000" stroke-width="5"/>
+<text x="153" y="199" text-anchor="middle" font-family="Impact,Haettenschweiler,Arial Black,sans-serif" font-size="31" fill="#FFF">Costa del Este</text>
+<g transform="translate(-4 4)">
+<g><animateTransform attributeName="transform" type="translate" values="0 -18;0 0;0 -5;0 0;0 0;0 -18" keyTimes="0;.12;.2;.28;.9;1" dur="3.5s" repeatCount="indefinite"/><path d="M380 118C380 34 610 34 610 118Z" fill="#000" transform="translate(8 8)"/>
+<path d="M380 118C380 34 610 34 610 118Z" fill="#F4A340" stroke="#000" stroke-width="5"/>
+<g fill="#FFF"><ellipse cx="440" cy="82" rx="9" ry="5"/><ellipse cx="495" cy="66" rx="9" ry="5"/><ellipse cx="550" cy="86" rx="9" ry="5"/></g>
+</g><rect x="372" y="118" width="246" height="18" fill="#3FBF5F" stroke="#000" stroke-width="5"/>
+<rect x="378" y="136" width="234" height="34" rx="6" fill="#6B2E12" stroke="#000" stroke-width="5"/>
+<path d="M372 170H618L560 186L520 170Z" fill="#FFF066" stroke="#000" stroke-width="5"/>
+<rect x="374" y="184" width="242" height="18" fill="#FF3B30" stroke="#000" stroke-width="5"/>
+<path d="M380 202H610V228H380Z" fill="#F4A340" stroke="#000" stroke-width="5"/>
+</g></svg>
